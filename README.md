@@ -1,5 +1,7 @@
 # vue_burguer
 
+Project to management hamburgers restaurant made in VueJs 3
+
 ## Project setup
 ```
 npm install
